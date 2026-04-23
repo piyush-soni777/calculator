@@ -22,7 +22,7 @@ operations = {
 
 def calculator():
   print(logo)
-
+# input first number
   num1 = float(input("What is the first number?: "))
   run = True
   while run: 
