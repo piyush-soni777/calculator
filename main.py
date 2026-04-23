@@ -50,3 +50,16 @@ def calculator():
       run = False
       print("\nGoodbye.")
 calculator()
+
+
+
+
+
+
+
+
+
+
+
+
+# develope by piyushsoni
