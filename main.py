@@ -29,7 +29,7 @@ def calculator():
     for e in operations:
       print(e)
     perform = input("Type a math operation: ") #select operator
-    num2 = float(input("What is the next number?: "))
+    num2 = float(input("What is the next number?: ")) #enter next number
 
     calculation = operations[perform]
     answer = calculation(num1, num2)
