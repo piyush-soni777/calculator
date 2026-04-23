@@ -50,7 +50,7 @@ def calculator():
       run = False
       print("\nGoodbye.")
 calculator()
-program finish
+# program finish
 
 
 
