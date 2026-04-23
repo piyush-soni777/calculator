@@ -28,7 +28,7 @@ def calculator():
   while run: 
     for e in operations:
       print(e)
-    perform = input("Type a math operation: ") 
+    perform = input("Type a math operation: ") #select operator
     num2 = float(input("What is the next number?: "))
 
     calculation = operations[perform]
