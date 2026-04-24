@@ -15,7 +15,7 @@ def divide(n1, n2):
 # chosse the operator
 operations = {
 '+': add, #add
-'-': subtract,
+'-': subtract, #minus
 '*': multiply,
 '/': divide,
 }
