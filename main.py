@@ -19,7 +19,7 @@ operations = {
 '*': multiply, #multiply
 '/': divide, #divide
 }
-
+# Calculations
 def calculator():
   print(logo)
 # input first number
