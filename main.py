@@ -17,7 +17,7 @@ operations = {
 '+': add, #add
 '-': subtract, #minus
 '*': multiply, #multiply
-'/': divide,
+'/': divide, #divide
 }
 
 def calculator():
