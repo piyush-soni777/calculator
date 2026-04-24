@@ -46,7 +46,7 @@ def calculator():
     elif continue_calc == 'new':
       calculator()
     else:
-      print("Invalid response.")
+      print("Invalid response.") #invalid number
       run = False
       print("\nGoodbye.")
 calculator()
