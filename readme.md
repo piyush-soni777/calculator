@@ -3,7 +3,7 @@
 Calculator is a simple and interactive application built using Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ---
-
+     
 ## 🚀 Live Demo
 🔗 https://piyush-soni777.github.io/calculator/
 
